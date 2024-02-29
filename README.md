@@ -34,4 +34,4 @@ The project entails ...
  - [Mike Jung](https://github.com/MJ-HSLU)
  - [Adrian Imfeld](https://github.com/aimfeld)
  - [Ansam Zedan](https://github.com/ansamz)
- - [Grzegorz Jaczech]()
+ - [Grzegorz Jaczech](https://github.com/westendconductivity)
