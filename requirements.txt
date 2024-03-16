@@ -1,0 +1,6 @@
+langchain
+transformers
+sentence-transformers
+sentencepiece
+bitsandbytes 
+accelerate
