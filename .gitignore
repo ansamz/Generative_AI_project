@@ -1,5 +1,6 @@
 ### dotenv ###
 .env
+config.json
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
