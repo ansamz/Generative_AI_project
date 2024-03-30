@@ -12,3 +12,7 @@ trl
 accelerate
 datasets
 streamlit 
+seaborn
+textblob
+wordcloud
+matplotlib
