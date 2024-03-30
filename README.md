@@ -1,29 +1,30 @@
-# Name
+# Comparative Analysis of Generative AI Systems Across Diverse Scenarios
 
 <img src="imgs/genai_group.jpg" alt="glass" width="600" height="auto">
 
 
-#### -- Project Status: [In Progress]
+## Project Description
 
-## Project Intro/Objective
+The study aims to compare the performance and output quality of various generative AI systems, including ChatGPT 3.5, ChatGPT 4, Gemini, Gemini Advanced, and LLaMA 70b. The comparison framework is based on responses to prompts across categories such as creativity, math, theory of mind, intuitive physics, history, current events, idea generation, and translation in multiple languages. The outputs are evaluated by six blind reviewers on a scale of 1-10, supplemented by qualitative reviews. The analysis includes both quantitative grading and qualitative NLP analysis of reviews and responses to derive insights into each model's strengths and weaknesses.
 
-here
-
-### Methods Used
+### Methods Used and Technologies
 
 The project involves the following key methods:
 
-1. **here:** here
+1. Python
+2. Generative AI models
+3. Statistical Analysis
+4. Sentiment Analysis
 
-### Technologies
+## Folder and Files Navigator:
 
-The key technologies involved in this project include:
-
-- **here:** here
-
-## Project Description
-
-The project entails ...
+- data: csv file containing all the Categories and prompts and ratings
+- imgs
+- Notebooks: 
+    - Various notebooks running models from huggingface
+    - Data_Analysis: analysis of the performance of each of the models
+- app.py: streamlit app to run the models from huggingface, the app has been shut down because it's using too many resources
+- requirements.txt: python libraries used in this project, for models and data analysis
 
 ## Documentation and resources:
 
