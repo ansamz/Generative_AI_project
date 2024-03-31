@@ -19,7 +19,7 @@ The project involves the following key methods:
 ## Folder and Files Navigator:
 
 - data: csv file containing all the Categories and prompts and ratings
-- imgs
+- imgs: images for repo and images of plots
 - Notebooks: 
     - Various notebooks running models from huggingface
     - Data_Analysis: analysis of the performance of each of the models
