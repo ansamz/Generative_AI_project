@@ -16,3 +16,6 @@ seaborn
 textblob
 wordcloud
 matplotlib
+statsmodels
+scikit-learn
+spacy

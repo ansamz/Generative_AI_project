@@ -621,12 +621,12 @@ Solving, we get:
 v1 = [0.70, 0.5
 ",1,Incomplete answer,1,didn't answer the question and crashed in the middle,1,"Hard to rate really, because incomplete",1,okish explanation but totally wrong?,2,good for the step by step approach. but wrong resulting equation and is incomplete,1,No answer,,
 ,,,,,,,,,,,,,,,,,,,
-Theory of Mind (Adrian),1,"Marcus has a box of blue, red, and yellow skittles. Mary sees the content, then leaves the room. Marcus secretly takes out all red skittles and replaces them with green ones. Mary comes back into the room and sees the closed box. When asked about the colors of the skittles, what will she answer? Explain your reasoning.",1,,"Mary will answer that the skittles are blue, yellow, and red.
+Theory of Mind (Adrian),1,"Marcus has a box of blue, red, and yellow skittles. Mary sees the content, then leaves the room. Marcus secretly takes out all red skittles and replaces them with green ones. Mary comes back into the room and sees the closed box. When asked about the colors of the skittles, what will she answer? Explain your reasoning.",1,LLaMA 70b,"Mary will answer that the skittles are blue, yellow, and red.
 
 When Mary left the room, the box contained blue, red, and yellow skittles. When she returned, the box still contained blue and yellow skittles, but Marcus had replaced the red skittles with green ones. However, Mary did not know about the switch, so she will still think that the box contains red skittles. Therefore, she will answer that the colors of the skittles are blue, yellow, and red.
 
 It's important to note that this is a classic example of a cognitive illusion, specifically the ""contents of a box"" problem. Our intuition can lead us to believe that the contents of a box are the same even if we have no way of knowing that they have been changed. In this case, Mary's belief about the contents of the box is based on her previous knowledge, but it is no longer accurate.",10,"Correct, Nice clarification",10,correct answer and explanation,10,,10,"perfect answer, gets it",10,correct good reasoning,10,"Comprehensive, additional information about the coginitive illusion is a plus",,
-,,,2,,"Mary will likely answer that there are blue, yellow, and green skittles in the box. 
+,,,2,ChatGPT 3.5,"Mary will likely answer that there are blue, yellow, and green skittles in the box. 
 
 Here's the reasoning behind this conclusion:
 
@@ -639,7 +639,7 @@ Here's the reasoning behind this conclusion:
 4. **Memory Recall**: Mary will recall the colors she observed initially, which were blue, red, and yellow. She won't be aware of the change made by Marcus, so she will likely mention those colors when asked about the skittles' colors.
 
 Hence, Mary's answer will likely be blue, yellow, and green skittles, based on her memory of the original colors combined with the fact that she can't see the current contents of the box.",4,Wrong answer. Ok explanation,2,"wrong answer, it starts well but loses track after",4,"Reasoning correct, but answer is wrong",1,"the reasoning is sound, the result however wrong.(Green skittle)",7,wrong answer both in the start and end. But all the reasoning and explanations are for the correct answer,5,"Steps provided, good reasoning, wrong answer",,
-,,,3,,"Mary will say there are blue, yellow, and red skittles in the box.
+,,,3,Gemini Advanced,"Mary will say there are blue, yellow, and red skittles in the box.
 
 Here's why:
 
@@ -647,8 +647,8 @@ Mary initially saw the contents of the box, which included blue, red, and yellow
 Marcus replacing the red skittles with green ones happens secretly, unseen by Mary.
 Since Mary doesn't know about the switch, she will rely on her initial observation.
 Even though the actual contents of the box have changed, Mary has no reason to suspect that. Her answer will reflect what she saw before Marcus tampered with the skittles.",10,Correct. Straight forward ,10,Good answer and explanation,10,,10,"correct, good reasoning",10,good answer and reasoning,10,Answer and reasoning correct,,
-,,,4,,"Mary will answer that the box contains blue, red, and yellow Skittles. This is because her knowledge is based on her last observation of the contents before leaving the room. Since Marcus made the change while she was out of the room and the box was closed when she returned, she has no way of knowing that the red Skittles were replaced with green ones. Our understanding and responses are based on our most recent information or observations unless updated information is provided, and in this scenario, Mary's information has not been updated since she last saw the Skittles.",10,Correct. Straight forward ,10,Good answer and explanation,10,,9,"correct, conclusion at the end a bit convoluted",10,good answer and reasoning,10,Answer and reasoning correct,,
-,,,5,,"Mary will say that there are blue, yellow, and red skittles in the box.
+,,,4,ChatGPT 4,"Mary will answer that the box contains blue, red, and yellow Skittles. This is because her knowledge is based on her last observation of the contents before leaving the room. Since Marcus made the change while she was out of the room and the box was closed when she returned, she has no way of knowing that the red Skittles were replaced with green ones. Our understanding and responses are based on our most recent information or observations unless updated information is provided, and in this scenario, Mary's information has not been updated since she last saw the Skittles.",10,Correct. Straight forward ,10,Good answer and explanation,10,,9,"correct, conclusion at the end a bit convoluted",10,good answer and reasoning,10,Answer and reasoning correct,,
+,,,5,Gemini,"Mary will say that there are blue, yellow, and red skittles in the box.
 
 Reasoning:
 
@@ -657,7 +657,7 @@ She remembers seeing blue, yellow, and red skittles.
 Even though Marcus took out the red ones and replaced them with green ones, Mary has no way of knowing what happened inside the closed box.
 Since she never saw the box being opened or the contents being altered, she will rely on her initial observation.
 Therefore, Mary's answer will reflect what she saw originally, which is blue, yellow, and red skittles.",10,Correct. Straight forward ,10,Good answer and explanation,10,,10,"correct, good reasoning",10,good answer and reasoning,10,Answer and reasoning correct,,
-,2,"Carl, Gustav, and Jung go to the same school. One day the teacher tells the students that the earth is 6000 years old. Gustav is sick that day and Carl is late. The next day, the teacher asks the students about the age of earth. What will Carl, Gustav, and Jung answer? Explain your reasoning.",1,,"Based on the information provided, let's analyze each student's response:
+,2,"Carl, Gustav, and Jung go to the same school. One day the teacher tells the students that the earth is 6000 years old. Gustav is sick that day and Carl is late. The next day, the teacher asks the students about the age of earth. What will Carl, Gustav, and Jung answer? Explain your reasoning.",1,LLaMA 70b,"Based on the information provided, let's analyze each student's response:
 
 Gustav:
 Since Gustav was absent on the day the teacher stated that the Earth is 6000 years old, he wouldn't have heard that specific information. Therefore, Gustav would not have any knowledge of the teacher's claim about the Earth's age. His response would likely be an admission of ignorance, stating that he doesn't know the age of the Earth.
@@ -669,7 +669,7 @@ Jung:
 Since the question doesn't provide any specific information about Jung's attendance or arrival time, we cannot determine whether Jung was present when the teacher made the statement. Therefore, just like Carl, Jung's answer could vary depending on their personal beliefs or knowledge. Jung might answer in line with the teacher's claim if they accept it, or they might provide a different answer if they have alternative information or beliefs.
 
 In summary, Gustav would likely admit not knowing the age of the Earth, while Carl and Jung's responses could vary based on their individual beliefs, knowledge, or acceptance of the teacher's claim.",8,"Good, Accounts for unknowns well",9,"I really like the answer, because the response really depends on manz aspects not just presence in class",8,,7,Overall OK but Gustav could answer based on his own knowledge. Carl suddenly is allowed to question th teacher.,8,Good reasoning taking details into account,9,Like the broad view of the response,,
-,,,2,,"Carl, Gustav, and Jung would likely respond differently based on their individual beliefs and understanding of the topic:
+,,,2,ChatGPT 3.5,"Carl, Gustav, and Jung would likely respond differently based on their individual beliefs and understanding of the topic:
 
 1. **Carl**: Since Carl was late to class on the day when the teacher made the statement about the Earth's age, he might not have heard it directly from the teacher. However, if he's generally scientifically literate, he might know that the Earth is estimated to be much older than 6000 years based on geological and astronomical evidence. Therefore, Carl is likely to answer that the Earth is much older than 6000 years.
 
@@ -678,7 +678,7 @@ In summary, Gustav would likely admit not knowing the age of the Earth, while Ca
 3. **Jung**: Jung, who presumably attended class and heard the teacher's statement, might have a different perspective. Like Carl, if Jung is scientifically literate, he might be aware of the overwhelming evidence supporting an older Earth. Therefore, he might also answer that the Earth is much older than 6000 years.
 
 In summary, Carl and Jung are likely to answer that the Earth is much older than 6000 years based on scientific evidence, while Gustav's answer may vary depending on his personal beliefs and upbringing.",10,Good assumptions,9,I like the reasoning and assumptions made by the model,9,makes additional reasonable assumptions,6,"It is assumed that all are scientifically literate. The model makes up three options and assigns them to the students, not a fan",8,good reasoning and assumptions taken,9,Like the broad view of the response and assumptions,,
-,,,3,,"Here's what we can expect from each student:
+,,,3,Gemini Advanced,"Here's what we can expect from each student:
 
 Carl: Since Carl was late, he might not have heard the teacher's statement about the Earth's age. He might ask for clarification or simply not have an answer.
 Gustav: Being absent on the day the statement was made, Gustav would likely have no knowledge of it. He might also ask for clarification or say he doesn't know.
@@ -687,7 +687,7 @@ He might agree with the teacher, especially if the school environment discourage
 He might express doubt or ask for evidence to support the 6,000-year claim, especially if he has access to information suggesting otherwise.
 He might simply say he doesn't know for sure.
 There's no definitive answer for Jung without additional information about his personality and the school environment.",7,"Overall ok assumptions, Not that nice explanations",8,Good answer with proper reasoning to reach it,8,,6,lacking reasoning,6,OK on the reasoning,7,"Ok, something missing",,
-,,,4,,"In this scenario, the responses from Carl, Gustav, and Jung regarding the Earth's age could vary based on a few factors such as when Carl arrived in class, whether Gustav was informed about the lesson after his sick day, and each student's personal acceptance of the information provided by the teacher.
+,,,4,ChatGPT 4,"In this scenario, the responses from Carl, Gustav, and Jung regarding the Earth's age could vary based on a few factors such as when Carl arrived in class, whether Gustav was informed about the lesson after his sick day, and each student's personal acceptance of the information provided by the teacher.
 
 1. **Jung**: Since Jung was present in class when the teacher stated that the Earth is 6000 years old, it's likely that Jung would repeat this information, assuming that he accepts the teacher's statement as accurate.
 
@@ -696,7 +696,7 @@ There's no definitive answer for Jung without additional information about his p
 3. **Gustav**: Being sick that day, Gustav would not have heard the teacher's statement directly. His response would depend on whether he received the information from classmates or the teacher after returning to school. If he didn't get this information, he might answer based on his previous knowledge or say that he doesn't know. If he was informed about the teacher's claim, his response could align with what the teacher said, assuming he accepts that information.
 
 This scenario underlines the importance of direct communication and critical thinking. Just because an authority figure provides information, it doesn't mean it's always accepted or unchallenged, especially when it comes to scientific facts that are widely agreed upon within the scientific community, such as the age of the Earth being much older than 6000 years according to geological evidence.",10,"Good reasoning, good assumptions",10,"Awesome answer, good reasoning is involved",10,"very complete, including critical thinking",9,sound reasoning providing alot of factors that influence the answer,10,Very good reasoning taking into account all details with clear explanation,10,"The best answer, nice sum-up",,
-,,,5,,"Here's what we can expect from each student:
+,,,5,Gemini,"Here's what we can expect from each student:
 
 Carl: Since Carl was late, he might not have heard the teacher's statement about the Earth's age. He might ask for clarification or simply not have an answer.
 Gustav: Because Gustav was absent, he would have no knowledge of the teacher's statement and wouldn't be able to answer the question.
@@ -707,7 +707,7 @@ Reasoning: We don't have any information about the students' personalities or ac
 
 Carl and Gustav wouldn't have heard the teacher's statement, so they wouldn't be able to repeat it.
 Jung's answer depends on his prior knowledge and critical thinking skills.",6,Poor structure of response,7,"was reluctant here between 7 and 8 because the reasoning is correct but feels like it has ""hiccups"" for Jung it answered well but not the other two",6,inconsistent reasoning,6,lacking reasoning,6,OK on the reasoning,6,Shallow,,
-,3,"Andreas secretly likes Isabelle. Isabelle owns a very jealous dog. The dog's owner is easily upset. One day, Andreas sees Isabelle on a date with Peter. Who is upset, Peter, Andreas, Isabelle, or the dog? Explain your reasoning.",1,,"The dog is upset.
+,3,"Andreas secretly likes Isabelle. Isabelle owns a very jealous dog. The dog's owner is easily upset. One day, Andreas sees Isabelle on a date with Peter. Who is upset, Peter, Andreas, Isabelle, or the dog? Explain your reasoning.",1,LLaMA 70b,"The dog is upset.
 
 The dog is described as ""very jealous,"" and it is likely that it would become upset if its owner, Isabelle, is on a date with someone else, especially if the dog is used to being the center of Isabelle's attention. The dog's upset could manifest in various ways, such as barking, growling, or even trying to intervene between Isabelle and Peter.
 
@@ -716,8 +716,8 @@ Andreas, who secretly likes Isabelle, might also feel upset or disappointed if h
 Isabelle, on the other hand, might be enjoying her date with Peter and might not be upset at all. She might be oblivious to the dog's jealous behavior or might try to reassure the dog that everything is okay.
 
 Peter, who is on the date with Isabelle, is unlikely to be upset, as he is the one who initiated the date and is presumably interested in spending time with Isabelle.",3,"Somewhat correct, makes too mant assumptions",4,"not bad, but concentrates too much on the dog's jealousy",2,"basic understanding problems, hallucinations",3,"focuses on every character, however misses the mark with the dog and uneccsary explanations regarding Andreas",5,ok on the reasoning apart from focusing on the dog a bit much,4,"Reasoning ok, too quick answer",,
-,,,2,,"In this scenario, it's likely that the dog's owner, Isabelle, would be upset. The situation involves Andreas secretly liking Isabelle, who is seen on a date with Peter. Given that Isabelle owns a very jealous dog and the dog's owner (Isabelle) is easily upset, it's reasonable to assume that Isabelle would be upset upon finding out that Andreas witnessed her on a date with Peter. This could potentially lead to a complicated situation involving jealousy, emotions, and perhaps even a confrontation between the individuals involved. Peter might also feel uncomfortable if he realizes that Andreas saw them on the date, but the primary source of upset would likely be Isabelle, given the circumstances. The dog itself may not be directly affected by the situation unless its owner's emotions or behavior change as a result.",2,Seems unreasonable,1,"it's a mess, no consistent line of thought ",3,,1,The LLM is just plain confused,1,"No clarity, too much assumptions",2,"Too much information at once, chaotic",,
-,,,3,,"Andreas is most likely upset. Here's why:
+,,,2,ChatGPT 3.5,"In this scenario, it's likely that the dog's owner, Isabelle, would be upset. The situation involves Andreas secretly liking Isabelle, who is seen on a date with Peter. Given that Isabelle owns a very jealous dog and the dog's owner (Isabelle) is easily upset, it's reasonable to assume that Isabelle would be upset upon finding out that Andreas witnessed her on a date with Peter. This could potentially lead to a complicated situation involving jealousy, emotions, and perhaps even a confrontation between the individuals involved. Peter might also feel uncomfortable if he realizes that Andreas saw them on the date, but the primary source of upset would likely be Isabelle, given the circumstances. The dog itself may not be directly affected by the situation unless its owner's emotions or behavior change as a result.",2,Seems unreasonable,1,"it's a mess, no consistent line of thought ",3,,1,The LLM is just plain confused,1,"No clarity, too much assumptions",2,"Too much information at once, chaotic",,
+,,,3,Gemini Advanced,"Andreas is most likely upset. Here's why:
 
 Andreas secretly likes Isabelle: This implies he has romantic feelings for her and would likely want to be the one on the date.
 Sees Isabelle on a date with Peter: This directly contradicts his desires and potentially hurts his feelings.
@@ -727,10 +727,10 @@ Isabelle: We don't know if she is happy about the date or even likes Peter.
 Peter: He might be oblivious to Andreas' feelings and simply enjoying his date.
 The dog: The dog might just be jealous of anyone who gets Isabelle's attention, not specifically Andreas.
 Therefore, based on Andreas' secret feelings and the date going against his desires, he's the most likely one to be upset.",10,Reasonable,9,very proper reasoning and line of thought to reach the conclusion. Especially when there isn't enough information,8,,10,"correct, concise and focuses on everyone",9,Pretty good reasoning ,9,Good answer and proper reasoning,,
-,,,4,,"In this scenario, it's likely that Andreas would be upset upon seeing Isabelle on a date with Peter, given that Andreas secretly likes Isabelle. This situation could invoke feelings of jealousy or disappointment in Andreas because the person he has feelings for is showing interest in someone else. 
+,,,4,ChatGPT 4,"In this scenario, it's likely that Andreas would be upset upon seeing Isabelle on a date with Peter, given that Andreas secretly likes Isabelle. This situation could invoke feelings of jealousy or disappointment in Andreas because the person he has feelings for is showing interest in someone else. 
 
 As for Isabelle, Peter, and the dog, there's no clear indication that they would be upset based on the information provided. Isabelle is on a date, which typically suggests she's having a good time. Peter is with Isabelle, so there's no apparent reason for him to be upset either. The dog's feelings are not directly involved in this scenario, though it's mentioned that the dog can be very jealous and Isabelle can be easily upset, these traits don't directly relate to the situation described with Andreas, Isabelle, and Peter.",10,"Reasonable, Good explanation",9,Great job at reaching conclusion when they know the answer and admitting not having enough information regarding the rest,9,,10,model has good understanding of situation,9,Good reasoning,9,"Clear conclusion, good reasoning",,
-,,,5,,"Andreas is most likely the one who is upset. Here's why:
+,,,5,Gemini,"Andreas is most likely the one who is upset. Here's why:
 
 The clue is in the first sentence: We are told Andreas secretly likes Isabelle. This implies he might have romantic feelings for her.
 Seeing her on a date with someone else: This would likely cause jealousy and disappointment in someone who harbors unconfessed feelings.
