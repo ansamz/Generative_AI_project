@@ -30,6 +30,13 @@ The project involves the following key methods:
 
 - Top 10 LLMs on Hugging Face: https://www.analyticsvidhya.com/blog/2023/12/large-language-models-on-hugging-face/ 
 - Orca-mini 3 billion parameter LLM: https://huggingface.co/pankajmathur/orca_mini_3b
+- nltk: https://www.nltk.org/ 
+- Textblob: https://textblob.readthedocs.io/en/dev/ 
+- wordcloud: https://amueller.github.io/word_cloud/ 
+- ChatGPT: https://openai.com/blog 
+- Google AI's language models: https://blog.research.google/ 
+- Meta AI's LLaMA: https://ai.meta.com/blog/code-llama-large-language-model-coding/ 
+- Evaluating Large Language Models: A Comprehensive Survey: https://arxiv.org/pdf/2310.19736.pdf 
 
 ## Contributing Members
 
