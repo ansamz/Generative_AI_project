@@ -45,3 +45,4 @@ The project involves the following key methods:
  - [Adrian Imfeld](https://github.com/aimfeld)
  - [Ansam Zedan](https://github.com/ansamz)
  - [Grzegorz Jaczech](https://github.com/westendconductivity)
+ - [Albin Plathottathil](https://github.com/albinpla)
